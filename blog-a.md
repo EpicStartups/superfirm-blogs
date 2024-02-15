@@ -56,6 +56,8 @@ You can create links in Markdown using the following syntax:
 ### Images
 
 You can include images in Markdown using the following syntax:
+![image](https://github.com/EpicStartups/superfirm-blogs/assets/12984614/06a3717f-c86d-4f6c-8040-87114918d401)
+
 
 ![Alt Text](https://example.com/image.jpg)
 
@@ -63,7 +65,8 @@ You can include images in Markdown using the following syntax:
 
 You can create blockquotes using the greater than symbol:
 
-> This is a blockquote.
+> The results were dramatic. Load times decreased by 50%, bounce rates fell by 25%, and sales increased by 20%. The e-commerce company was thrilled with the improvements and has since hired Code House for additional projects.
+
 
 ### Code Blocks
 
